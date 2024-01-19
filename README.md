@@ -11,4 +11,6 @@ To use the Cult of the Lamb Save Decryptor follow these steps:
 
 this will create a new file called slot_x_decrypted.json which you can then edit in your favorite editor and then save, CoTL will be able to read this file and will then encrypt it when you save!
 
+Make sure you rename the file back to slot_x.json before you load up the game or it won't load that file X being the Number of the save
+
 Save file location Windows: C:\Users\%USERPROFILE%\AppData\LocalLow\Massive Monster\Cult Of The Lamb\saves
