@@ -1,4 +1,4 @@
-<h1 align="center">Cult of the Lamb Save Decryptor/h1>
+<h1 align="center">Cult of the Lamb Save Decryptor</h1>
 
 
 ## Usage
